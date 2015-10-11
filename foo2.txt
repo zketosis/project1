@@ -1,3 +1,4 @@
 change foo2 and file1.txt together.
 foo2 get a branch.
 twice
+onmaster
