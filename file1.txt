@@ -1,2 +1,1 @@
-hi!
-
+change foo2 and file1.txt together.
