@@ -1,10 +1,1 @@
-Major V1.1  !
-
-
-
-
-change foo2 and file1.txt together.
-foo2 get a branch.
-twice
-onmaster
-1
+Major V2
